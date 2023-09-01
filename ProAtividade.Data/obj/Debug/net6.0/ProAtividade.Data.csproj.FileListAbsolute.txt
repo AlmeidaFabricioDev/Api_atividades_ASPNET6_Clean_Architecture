@@ -1,0 +1,17 @@
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\bin\Debug\net6.0\ProAtividade.Data.deps.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\bin\Debug\net6.0\ProAtividade.Data.runtimeconfig.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\bin\Debug\net6.0\ProAtividade.Data.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\bin\Debug\net6.0\ProAtividade.Data.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\bin\Debug\net6.0\ProAtividade.Domain.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\bin\Debug\net6.0\ProAtividade.Domain.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ProAtividade.Data.csproj.AssemblyReference.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ProAtividade.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ProAtividade.Data.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ProAtividade.Data.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ProAtividade.Data.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ProAtividade.Data.csproj.CopyComplete
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ProAtividade.Data.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\refint\ProAtividade.Data.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ProAtividade.Data.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ProAtividade.Data.genruntimeconfig.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Data\obj\Debug\net6.0\ref\ProAtividade.Data.dll

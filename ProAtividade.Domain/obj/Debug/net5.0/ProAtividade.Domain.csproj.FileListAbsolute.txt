@@ -1,0 +1,24 @@
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\bin\Debug\net5.0\ProAtividade.Domain.deps.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\bin\Debug\net5.0\ProAtividade.Domain.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\bin\Debug\net5.0\ref\ProAtividade.Domain.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\bin\Debug\net5.0\ProAtividade.Domain.pdb
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.csproj.AssemblyReference.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.AssemblyInfoInputs.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.AssemblyInfo.cs
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ref\ProAtividade.Domain.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\bin\Debug\net5.0\ProAtividade.Domain.deps.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\bin\Debug\net5.0\ProAtividade.Domain.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\bin\Debug\net5.0\ProAtividade.Domain.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.csproj.AssemblyReference.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ref\ProAtividade.Domain.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.Domain\obj\Debug\net5.0\refint\ProAtividade.Domain.dll

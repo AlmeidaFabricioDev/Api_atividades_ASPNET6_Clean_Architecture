@@ -1,0 +1,299 @@
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.exe
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.deps.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.dev.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.AssemblyReference.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.Manifest.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.xml
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\scopedcss\bundle\ProAtividade.API.styles.css
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.RazorTargetAssemblyInfo.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CopyComplete
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.genruntimeconfig.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_ASPNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.exe
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.deps.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.dev.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.AssemblyReference.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfoInputs.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfo.cs
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CoreCompileInputs.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.Manifest.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.xml
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\scopedcss\bundle\ProAtividade.API.styles.css
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.RazorTargetAssemblyInfo.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CopyComplete
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.genruntimeconfig.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.exe
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.deps.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.dev.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.AssemblyReference.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.Manifest.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.xml
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\scopedcss\bundle\ProAtividade.API.styles.css
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.RazorTargetAssemblyInfo.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CopyComplete
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\REACT_APNETCORE\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.genruntimeconfig.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.exe
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.deps.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.dev.json
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.AssemblyReference.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfoInputs.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfo.cs
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CoreCompileInputs.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.Manifest.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.xml
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\scopedcss\bundle\ProAtividade.API.styles.css
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.RazorTargetAssemblyInfo.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CopyComplete
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.genruntimeconfig.cache
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Data.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Domain.dll
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Data.pdb
+C:\Users\foliveira\Documents\udemy\REACT_APNETCORE\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Domain.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\appsettings.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.exe
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.deps.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.runtimeconfig.dev.json
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Data.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Domain.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Data.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Domain.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.AssemblyReference.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.Manifest.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.xml
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\scopedcss\bundle\ProAtividade.API.styles.css
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.RazorTargetAssemblyInfo.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.csproj.CopyComplete
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ref\ProAtividade.API.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\ProAtividade.API.genruntimeconfig.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.Pack.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\msbuild.ProAtividade.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\msbuild.build.ProAtividade.API.props
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ProAtividade.API.props
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ProAtividade.API.props
+C:\Users\fabri\OneDrive\Área de Trabalho\ALL\.net\udemy\sejaFullstack\crud_React_with_ASPNETCore\back\src\ProAtividade.API\obj\Debug\net5.0\refint\ProAtividade.API.dll
